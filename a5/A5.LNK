@@ -1,0 +1,5 @@
+input	d:\A5.bin
+input	d:\IO.bin
+input	d:\MATH.bin
+output	d:\prog.tos
+xdebug
